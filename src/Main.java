@@ -5,8 +5,9 @@ public class Main {
 
         int a = 15;
         int b = 13;
+        int d = 12;
 
-        int c = a+b;
+        int c = a+b+d;
         System.out.println(c);
 
         SecondClass secondClass = new SecondClass();
